@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
 
 # ESP32 BMKG Weather Tracker & HTTP Client Demo
 
 **English** · [Indonesia](README_IDN.md)
 
-</div>
+
 
 <p align="center">
   <a href="#what-it-does">What it does</a> ·
@@ -17,8 +17,9 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-
 An interactive IoT application built for the **ESP32** that leverages a local web server, local flash file system storage (**LittleFS**), and external APIs to fetch real-time weather forecasts in Indonesia. It allows users to dynamically search for any Indonesian village, district, city, or province, fetches weather details directly from the **BMKG (Indonesian Agency for Meteorology, Climatology, and Geophysics) API**, and demonstrates outbound data transmission via **HTTP POST** requests to a remote web server.
+
+</div>
 
 ---
 
