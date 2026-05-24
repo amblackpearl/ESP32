@@ -1,10 +1,9 @@
-<div style="text-align: center;">
+<div align="center">
 
 # ESP32 Demo HTTP Client & Prakiraan Cuaca BMKG
 
 **English** · [Indonesia](README_IDN.md)
 
-</div>
 
 <p align="center">
   <a href="#detail-project">Detail Project</a> ·
@@ -18,6 +17,8 @@
 </p>
 
 Aplikasi IoT interaktif yang dibuat untuk **ESP32** dengan memanfaatkan web server lokal, penyimpanan file lokal pada flash memory (**LittleFS**), dan API eksternal untuk mengambil prakiraan cuaca real-time di Indonesia. Aplikasi ini memungkinkan pengguna mencari desa, kecamatan, kota/kabupaten, atau provinsi di Indonesia secara dinamis, mengambil detail cuaca langsung dari **API BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)**, serta mendemonstrasikan pengiriman data keluar menggunakan request **HTTP POST** ke web server remote.
+
+</div>
 
 ---
 
