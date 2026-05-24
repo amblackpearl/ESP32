@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# 🌤️ ESP32 BMKG Weather Tracker & HTTP Client Demo
+# ESP32 BMKG Weather Tracker & HTTP Client Demo
 
 </div>
 
